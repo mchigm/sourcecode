@@ -1,0 +1,66 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.Reactors {
+  background-color: #edf93e;
+  color: #518b3c;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+.active, .Reactors:hover {
+  background-color: #6c6a60;
+}
+.Games {
+  background-color: #ff0000;
+  color: #fff700;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+.active, .Games:hover {
+  background-color: #a9ffcf;
+}
+.Computers {
+  background-color: #a9ff85;
+  color: #518b3c;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+.active, .Computers:hover {
+  background-color: #6c6a60;
+}
+.coding {
+  background-color: #dbe4ff;
+  color: #0000;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+.active, .coding:hover {
+  background-color: #00ff40;
+}
+.Inside {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #ccc;
+}
