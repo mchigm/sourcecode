@@ -9,3 +9,4 @@
 trying to add Bluestacks but failed, retrying...
 2022/12/15: nah it didn't work, too big
 2022/12/15: the **biggest update** since release
+2023/1/3: first day of school test, as well as replanted the RBMK reactor simulator and remodified the BWR simulator file
